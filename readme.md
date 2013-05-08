@@ -5,5 +5,6 @@ Dit is een test
 
 ####Inhoudsopgave
 [Installation](#Install)  
-[]Configuration(#config)  
-[]Todo(#todo)  
+[Configuration](#config)  
+[Todo](#todo)  
+[Support](#help)  
